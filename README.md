@@ -1,4 +1,4 @@
-# Port Port Scanner Using Python  
+# Port Scanner Using Python  
 
 
 #### @Copyright - Wassem Alaa-Iddin
